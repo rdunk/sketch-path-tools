@@ -24,5 +24,9 @@
     "@skpm/builder": "^0.7.0",
     "simplify-js": "^1.2.4"
   },
-  "author": "Rupert Dunk <rupert@rupertdunk.com>"
+  "author": "Rupert Dunk <rupert@rupertdunk.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdunk/sketch-path-tools.git"
+  }
 }
