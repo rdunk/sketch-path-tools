@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Simplify Path",
+      "identifier": "path-tools.simplify-path",
+      "script": "./simplify-path.js"
+    },
+    {
+      "name": "Snap Points to Pixels",
+      "identifier": "path-tools.snap-to-pixels",
+      "script": "./snap-to-pixels.js"
+    }
+  ],
+  "menu": {
+    "title": "Path Tools",
+    "items": ["path-tools.simplify-path", "path-tools.snap-to-pixels"]
+  }
+}
