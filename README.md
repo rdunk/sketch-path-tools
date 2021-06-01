@@ -31,7 +31,3 @@ Aligns points to their nearest pixel value. Unlike the built in "Round to Pixel"
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
-
-```
-
-```
