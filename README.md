@@ -13,7 +13,7 @@
 
 ## Install
 
-- [Download](../../releases/latest/download/path-simplify.sketchplugin.zip) the latest release.
+- [Download](../../releases/latest/download/path-tools.sketchplugin.zip) the latest release.
 - Uncompress and double-click on the `.sketchplugin` file.
 
 ## Tools
